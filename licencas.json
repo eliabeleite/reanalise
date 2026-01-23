@@ -10,7 +10,7 @@
     "hardware_ids": []
   },
   {
-    "key": "DEMO-7DAYS-TRIAL-0001",
+    "key": "D3M0-7DAY-TR1A-L9X2",
     "customer": "Usuário Demo",
     "email": "demo@exemplo.com",
     "plan": "trial",
@@ -20,9 +20,9 @@
     "hardware_ids": []
   },
   {
-    "key": "MASTER-UNLIMITED-ROOT-0001",
+    "key": "M457-3R00-7UNL-1M1T",
     "customer": "Usuário Mestre",
-    "email": "eliabcd@gmail.com",
+    "email": "mestre@exemplo.com",
     "plan": "master",
     "status": "active",
     "expires_at": "2099-12-31T23:59:59Z",
