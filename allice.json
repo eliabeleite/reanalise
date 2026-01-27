@@ -16,10 +16,11 @@
     },
     {
       "key": "LIC-98765-ELIBE",
-      "expirationDate": "31-12-2025",
+      "expirationDate": "31-12-2099",
       "email": "fiscal@agroam.com.br",
       "name": "Eliabe",
       "machineId": "MID_ZmpicGFwY2xkcHBvcGFkZm1tZ"
     }
   ]
 }
+
