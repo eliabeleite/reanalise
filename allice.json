@@ -1,0 +1,16 @@
+{
+  "licenses": [
+    {
+      "key": "LIC-12345-ABCDE",
+      "expirationDate": "31-12-2024",
+      "email": "usuario@exemplo.com",
+      "name": "João da Silva"
+    },
+    {
+      "key": "LIC-67890-FGHIJ",
+      "expirationDate": "30-06-2024",
+      "email": "empresa@exemplo.com.br",
+      "name": "Empresa XYZ Ltda"
+    }
+  ]
+}
