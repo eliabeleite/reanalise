@@ -1,10 +1,4 @@
 
-
-Claro, aqui está o JSON atualizado com a nova licença de teste incluída.
-
-Adicionei a nova licença com os dados fornecidos (`email` e `name`) e gerei uma `key` e uma `expirationDate` de exemplo, seguindo o padrão existente. A data de expiração foi definida como 30 de setembro de 2024, típica para uma licença de teste.
-
-```json
 {
   "licenses": [
     {
@@ -27,4 +21,5 @@ Adicionei a nova licença com os dados fornecidos (`email` e `name`) e gerei uma
     }
   ]
 }
-```
+
+
