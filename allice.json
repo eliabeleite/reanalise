@@ -1,28 +1,25 @@
 {
   "licenses": [
     {
-      "key": "LIC-12345-ABCDE",
-      "expirationDate": "31-12-2024",
-      "email": "usuario@exemplo.com",
-      "name": "João da Silva"
-    },
-    {
-      "key": "LIC-67890-FGHIJ",
-      "expirationDate": "30-06-2027",
-      "email": "empresa@exemplo.com.br",
-      "name": "Empresa XYZ Ltda"
-    },
-    {
       "key": "LIC-11111-TESTE",
       "expirationDate": "30-01-2026",
       "email": "teste@teste.com",
-      "name": "Teste"
+      "name": "Teste",
+      "machineId": null
     },
     {
       "key": "LIC-54321-PXAOA",
       "expirationDate": "31-01-2026",
       "email": "antoniopaixao.flex@gmail.com",
-      "name": "Antonio Paixao"
+      "name": "Antonio Paixao",
+      "machineId": null
+    },
+    {
+      "key": "LIC-98765-ELIBE",
+      "expirationDate": "31-12-2025",
+      "email": "fiscal@agroam.com.br",
+      "name": "Eliabe",
+      "machineId": "MID_ZmpicGFwY2xkcHBvcGFkZm1tZ"
     }
   ]
 }
