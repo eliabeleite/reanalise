@@ -41,7 +41,15 @@
       "email": "",
       "name": "TESTE",
       "machineId": null
+    },
+    {
+      "key": "LIC-45189-TST",
+      "expirationDate": "05-02-2026",
+      "email": "",
+      "name": "TESTE",
+      "machineId": null
     }
   ]
 }
+
 
