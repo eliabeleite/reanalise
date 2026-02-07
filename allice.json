@@ -56,9 +56,17 @@
       "email": "expirado@exemplo.com",
       "expiresAt": "2027-01-01T00:00:00Z",
       "createdAt": "2024-12-01T10:00:00Z"
+    },
+    {
+     "key": "LIC-34598-SEFZA",
+     "expirationDate": "31-12-2099",
+     "email": "fiscal@agroam.com.br",
+     "name": "Eliabe",
+     "machineId": null
     }
   ]
 }
+
 
 
 
