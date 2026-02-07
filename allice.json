@@ -48,9 +48,18 @@
       "email": "",
       "name": "TESTE",
       "machineId": null
+    },
+      {
+      "key": "EXP-00000-ZZZZZ",
+      "active": true,
+      "name": "TESTE",
+      "email": "expirado@exemplo.com",
+      "expiresAt": "2027-01-01T00:00:00Z",
+      "createdAt": "2024-12-01T10:00:00Z"
     }
   ]
 }
+
 
 
 
