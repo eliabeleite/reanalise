@@ -63,9 +63,17 @@
      "email": "fiscal@agroam.com.br",
      "name": "Eliabe",
      "machineId": null
+    },
+    {
+     "key": "ACM-28624-SEFZA",
+     "expirationDate": "31-12-2099",
+     "email": "fiscal@agroam.com.br",
+     "name": "Eliabe",
+     "machineId": null
     }
   ]
 }
+
 
 
 
